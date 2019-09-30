@@ -1,7 +1,7 @@
 # convertArrayToJsonObject
-PHP function to convert PHP array to JOSN object to inject to Mariadb SQL query
+PHP function to convert PHP array to JOSN object that you can inject to Mariadb SQL query
 
-return string with JSON_ARRAY and JSON_OBJECT that MariaDB cna digest to post parts of json with JSON_PUT etc. functions
+returns string with JSON_ARRAY and JSON_OBJECT that MariaDB cna digest to post parts of json with JSON_PUT etc. functions
 
 usage:
 
