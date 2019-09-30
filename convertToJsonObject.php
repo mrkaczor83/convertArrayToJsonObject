@@ -1,6 +1,6 @@
 <?php
 
-function convertToJsonObject($array)
+function convertArrayToJsonObject($array)
 {
     if (is_assoc($array)) {
         $output = "JSON_OBJECT(";
